@@ -1,0 +1,10 @@
+server/
+├── config/
+│   └── db.js         # MongoDB connection logic
+├── controllers/      # Business logic for routes
+├── middleware/       # Authentication and validation middleware
+├── models/           # MongoDB schema models
+├── routes/           # API endpoints
+├── .env              # Environment variables
+├── server.js         # Main entry point
+└── package.json
